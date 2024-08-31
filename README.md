@@ -14,7 +14,7 @@ This project implements an image fusion method that combines infrared and visibl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Infrared-Visible-Image-Fusion.git
+   git clone https://github.com/suweijian1996/ERNet.git
    ```
 
 2. Install the required packages:
