@@ -2,6 +2,10 @@
 
 This project implements an image fusion method that combines infrared and visible images using adversarial feature extraction and stable image reconstruction. The method aims to enhance the quality and robustness of the fused images, making it suitable for various applications in image processing and computer vision.
 
+
+### Update Log
+2024/09/04 Uploaded training parameters
+
 ## Getting Started
 
 ### Prerequisites
@@ -51,7 +55,3 @@ We acknowledge the contributions of the YOLO framework and other open-source lib
 ---
 
 Feel free to modify any sections to better fit your project's needs!
-
-
-### Update Log
-2024/09/04 Uploaded training parameters
