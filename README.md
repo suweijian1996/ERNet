@@ -51,3 +51,7 @@ We acknowledge the contributions of the YOLO framework and other open-source lib
 ---
 
 Feel free to modify any sections to better fit your project's needs!
+
+
+### Update Log
+2024/09/04 Uploaded training parameters
