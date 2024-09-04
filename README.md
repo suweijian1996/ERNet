@@ -3,8 +3,8 @@
 This project implements an image fusion method that combines infrared and visible images using adversarial feature extraction and stable image reconstruction. The method aims to enhance the quality and robustness of the fused images, making it suitable for various applications in image processing and computer vision.
 
 
-### Update Log
-2024/09/04 Uploaded training parameters
+### Update log
+2024/09/04 Uploaded training parameters.
 
 ## Getting Started
 
