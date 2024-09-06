@@ -28,7 +28,7 @@ This project implements an image fusion method that combines infrared and visibl
 
 3. Create the necessary directories and prepare the datasets:
    ```bash
-   python **./ERNet/createpath.py**
+   python ./ERNet/createpath.py
    ```
 
 ### Project Structure
@@ -38,7 +38,7 @@ This project implements an image fusion method that combines infrared and visibl
 
 ### Usage
 
-To train or test the model, navigate to the `**./ERNet/Fusion_Net/train_endecoder.py**` or `**./ERNet/Fusion_Net/fuseimage.py**` folder and follow the instructions provided in the corresponding scripts.
+To train or test the model, navigate to the `./ERNet/Fusion_Net/train_endecoder.py` or `./ERNet/Fusion_Net/fuseimage.py` folder and follow the instructions provided in the corresponding scripts.
 
 ### Datasets
 
