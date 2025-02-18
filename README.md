@@ -54,16 +54,20 @@ We acknowledge the contributions of the YOLO framework and other open-source lib
 
 ### References
 
-@ARTICLE{9781395,
-  author={Su, Weijian and Huang, Yongdong and Li, Qiufu and Zuo, Fengyuan and Liu, Lijun},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Infrared and Visible Image Fusion Based on Adversarial Feature Extraction and Stable Image Reconstruction}, 
-  year={2022},
-  volume={71},
-  number={},
-  pages={1-14},
-  keywords={Feature extraction;Decoding;Training;Image reconstruction;Image fusion;Testing;Generators;Feature extraction;generative adversarial network (GAN);image fusion;infrared image;two-stage training;visible image},
-  doi={10.1109/TIM.2022.3177717}}
+Su, W., Huang, Y., Li, Q., Zuo, F., & Liu, L. (2022). Infrared and Visible Image Fusion Based on Adversarial Feature Extraction and Stable Image Reconstruction. IEEE Transactions on Instrumentation and Measurement, 71, 1-14.
+DOI: 10.1109/TIM.2022.3177717
+
+@article{Su2022Fusion,
+  author = {Su, Weijian and Huang, Yongdong and Li, Qiufu and Zuo, Fengyuan and Liu, Lijun},
+  title = {Infrared and Visible Image Fusion Based on Adversarial Feature Extraction and Stable Image Reconstruction},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  volume = {71},
+  pages = {1-14},
+  year = {2022},
+  doi = {10.1109/TIM.2022.3177717},
+  keywords = {Feature extraction, Generative adversarial network (GAN), Image fusion, Infrared image, Two-stage training, Visible image}
+}
+
 
 ---
 
