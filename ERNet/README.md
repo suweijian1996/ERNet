@@ -1,6 +1,3 @@
-Here's a README content draft for your project:
-
----
 
 # Infrared and Visible Image Fusion based on Adversarial Feature Extraction and Stable Image Reconstruction (TIM2022)
 
